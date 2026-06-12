@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sinking-in-your-eyes/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Sinking In Your Eyes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sinking-in-your-eyes/) |
+| **Get License** | [Get a Licensing Quote for Sinking In Your Eyes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sinking-in-your-eyes/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I watch the shadows dancing on your skin
+> I feel the fire pulling me right in
+> You hold my gaze and time begins to fade
+> Lost in the magic that we just made
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
