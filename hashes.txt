@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sinking In Your Eyes
+
+This log tracks the cryptographic history and versioning for the song **Sinking In Your Eyes** (sinking-in-your-eyes).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-12T12:40:29.326475 | `v1` | `fa5b1f6a391c45fd76a35457604fba5e7c7555ff9795a78f3ddd1fdb808cd53c` | `fddc16948df6634b832d1a5607b59968630244b2d32ae542598a838dad50e68d` | `2026-06-12_sinking-in-your-eyes-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sinking-in-your-eyes/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Sinking In Your Eyes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sinking-in-your-eyes/) |
+| **Get License** | [Secure Licensing Rights for Sinking In Your Eyes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sinking-in-your-eyes/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `fa5b1f6a391c45fd76a35457604fba5e7c7555ff9795a78f3ddd1fdb808cd53c` |
 | **Timestamp** | June 12, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
